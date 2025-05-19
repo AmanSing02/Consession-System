@@ -1,5 +1,5 @@
 # Consession-System
-Developed a student pass management system using Python, SQLite, Tkinter, and TTK Bootstrap for a seamless user experience.
+Developed a student pass management system using Python, SQLite for a seamless user experience.
 # Introduction to the project 
 This project is a simple Python application that allows the management of 
 student records, the generation of forms, and the creation of PDF documents for 
